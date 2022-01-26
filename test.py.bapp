@@ -1,0 +1,4 @@
+{
+  "lang": "python",
+  "code": "print(\"Hello World!\")\nwhile True: pass"
+}
