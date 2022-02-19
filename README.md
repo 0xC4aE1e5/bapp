@@ -23,3 +23,14 @@ You can use the `Makefile` to install it if you're on Linux, or if you're on Win
 3. Move the `bapp` folder anywhere.
 4. Run any of the test scripts, to specify the location of where bapp is installed
 5. Delete the test scripts
+
+## Create a bapp file
+
+Just do this in JSON:
+
+```json
+{
+    "lang": "javascript or python or ruby",
+    "code": "valid code for that language"
+}
+```
