@@ -1,1 +1,1 @@
-ruby %lp% %*
+ruby "%lp%" %*
