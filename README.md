@@ -26,7 +26,7 @@ You can use the `Makefile` to install it if you're on Linux, or if you're on Win
 
 ## Create a bapp file
 
-Just do this in JSON:
+Just do this in JSON or use bappstudio (link is at top of README):
 
 ```json
 {
